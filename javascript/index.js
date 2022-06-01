@@ -98,3 +98,21 @@ console.log("4");
   console.log("adsdasd");
   console.log("adsdasd");
 };
+
+() => {
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+};
+
+() => {
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+};
