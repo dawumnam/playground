@@ -80,3 +80,12 @@ console.log("4");
     resolve();
   });
 })();
+
+() => {
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+  console.log("adsdasd");
+};
